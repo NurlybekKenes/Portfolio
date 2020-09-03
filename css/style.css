@@ -170,7 +170,7 @@ body {
   margin-right: 16px;
 }
 .project-image {
-  max-width: 338px;
+  width: 338px;
   border-radius: 10px;
   max-width: 100%;
 }
